@@ -1,0 +1,44 @@
+h1{
+	color: #68829E;
+	font-family: Times new roman;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+	font-family: Times new roman;
+    text-align: center;
+}
+
+body {
+	background-color: #CED8F6;
+
+}
+
+table {
+	width: 75%;
+    border: solid #68829E;
+    margin: auto;
+}
+
+th{
+	border-bottom: 1px;
+	border-top: 1px;
+	border-right: 1px;
+	height: 25px;
+	font-size: 18px;
+	text-align: left;
+	font-family: Times new roman;
+	text-decoration: underline;
+	color: #000000;
+	padding: 15px;
+}
+
+td{
+	padding:10px;
+	border-bottom: 1px solid black;
+	font-family: Times new roman;
+	color: #000000;
+	padding: 15px;
+
+}
